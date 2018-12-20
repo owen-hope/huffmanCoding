@@ -2,7 +2,8 @@
 Huffman encoding and decoding
 This program was developed for a data structures and algorithms master project.
 
-It creates a huffman tree based on a min heap
+It creates a huffman tree based on a min heap.
+A variety of file types can be compressed and decompressed.
 
 In order to run complie all the files.
 To encode a file: java henc5191 <file path>
